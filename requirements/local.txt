@@ -1,0 +1,4 @@
+-r base.txt # includes the base.txt requirements file
+ipython==4.0.2
+django-extensions==1.6.1
+fake-factory==0.5.3
